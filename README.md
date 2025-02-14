@@ -49,5 +49,6 @@ Data Analysis
 Interactive Data Visualization
 Tableau Expertise
 Storytelling Through Data
+https://github.com/FatimaKabba/Teacher.Motivation/blob/main/Teacher%20motivation%20dashboard%20Tableau.png?raw=true
 🌐 Explore the Dashboard
 You can vhttps://public.tableau.com/app/profile/kabba.fatima.ezzahra/vizzesiew the full dashboard on Tableau Public
